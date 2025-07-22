@@ -1,0 +1,15 @@
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\bin\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.exe
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\bin\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.deps.json
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\bin\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.runtimeconfig.json
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\bin\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.dll
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\bin\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.pdb
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\obj\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\obj\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.AssemblyInfoInputs.cache
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\obj\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.AssemblyInfo.cs
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\obj\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.csproj.CoreCompileInputs.cache
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\obj\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.sourcelink.json
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\obj\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.dll
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\obj\Debug\net9.0\refint\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.dll
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\obj\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.pdb
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\obj\Debug\net9.0\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.genruntimeconfig.cache
+C:\Users\andre.leandro\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-\obj\Debug\net9.0\ref\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.dll

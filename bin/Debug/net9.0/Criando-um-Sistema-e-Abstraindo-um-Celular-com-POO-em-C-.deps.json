@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-/1.0.0": {
+        "runtime": {
+          "Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

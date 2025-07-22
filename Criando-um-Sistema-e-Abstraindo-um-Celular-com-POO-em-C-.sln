@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-", "Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-em-C-.csproj", "{BFA85568-08B8-D519-8291-6BBCEBDBCA93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA85568-08B8-D519-8291-6BBCEBDBCA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA85568-08B8-D519-8291-6BBCEBDBCA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA85568-08B8-D519-8291-6BBCEBDBCA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA85568-08B8-D519-8291-6BBCEBDBCA93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E9A20FD-8FA0-45B1-BDB4-B244C5087567}
+	EndGlobalSection
+EndGlobal
